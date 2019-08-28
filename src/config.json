@@ -68,16 +68,6 @@
             "addresses": {
                 "1": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
             }
-        },
-        {
-            "decimals": 18,
-            "symbol": "TUSD",
-            "name": "True USD",
-            "icon": "assets/icons/tusd.png",
-            "primaryColor": "#333333",
-            "addresses": {
-                "1": "0x0000000000085d4780B73119b644AE5ecd22b376"
-            }
         }
     ],
     "pairs": [
