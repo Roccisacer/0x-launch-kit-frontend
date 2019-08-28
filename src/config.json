@@ -4,7 +4,7 @@
     },
     "tokens": [
         {
-            "symbol": "TCASH",
+            "symbol": "tcash",
             "name": "TCASH",
             "primaryColor": "#333333",
             "icon": "assets/icons/tcash.png",
@@ -31,7 +31,7 @@
         },
         {
             "decimals": 6,
-            "symbol": "USDT",
+            "symbol": "usdt",
             "name": "Tether",
             "icon": "assets/icons/usdt.png",
             "primaryColor": "#DEA349",
@@ -41,7 +41,7 @@
         },
         {
             "decimals": 18,
-            "symbol": "BNB",
+            "symbol": "bnb",
             "name": "Binance Coin",
             "primaryColor": "#68CCBB",
             "icon": "assets/icons/BNB.png",
@@ -51,7 +51,7 @@
         },
         {
             "decimals": 6,
-            "symbol": "USDC",
+            "symbol": "usdc",
             "name": "USD Coin",
             "icon": "assets/icons/usdc.png",
             "primaryColor": "#512D80",
@@ -61,7 +61,7 @@
         },
         {
             "decimals": 18,
-            "symbol": "OMG",
+            "symbol": "omg",
             "name": "OmiseGo",
             "icon": "assets/icons/omg.png",
             "primaryColor": "#E1AA3E",
@@ -72,23 +72,23 @@
     ],
     "pairs": [
         {
-            "base": "OMG",
+            "base": "omg",
             "quote": "weth"
         },
         {
-            "base": "USDC",
+            "base": "usdc",
             "quote": "weth"
         },
         {
-            "base": "BNB",
+            "base": "bnb",
             "quote": "weth"
         },
         {
-            "base": "USDT",
+            "base": "usdt",
             "quote": "weth"
         },
         {
-            "base": "TCASH",
+            "base": "tcash",
             "quote": "weth"
         }
     ],
