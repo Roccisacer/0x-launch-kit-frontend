@@ -72,10 +72,6 @@
     ],
     "pairs": [
         {
-            "base": "TUSD",
-            "quote": "weth"
-        },
-        {
             "base": "OMG",
             "quote": "weth"
         },
