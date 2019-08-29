@@ -59,7 +59,7 @@
             "symbol": "bnb",
             "name": "Binance Coin",
             "primaryColor": "#68CCBB",
-            "icon": "assets/icons/BNB.png",
+            "icon": "assets/icons/bnb.png",
             "addresses": {
                 "1": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
             }
